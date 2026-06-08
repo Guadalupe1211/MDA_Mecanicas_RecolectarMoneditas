@@ -1,5 +1,9 @@
 # 🪙 Coin Collector - Prototipo MDA en Unity
 
+<img width="882" height="495" alt="image" src="https://github.com/user-attachments/assets/907834ae-dcd8-44db-ad43-98b802a00fe7" />
+<img width="400" height="225" alt="Mecanicas" src="https://github.com/user-attachments/assets/a7120540-5dd2-4c12-a164-833fc2c08185" />
+
+
 ## Descripción
 
 Este proyecto consiste en un minijuego de recolección desarrollado en Unity con el objetivo de aplicar el marco de diseño de videojuegos 
@@ -97,9 +101,3 @@ identificando cómo sistemas simples de progresión y recompensas pueden aumenta
 
 Asimismo, se aplicó el modelo MDA para comprender cómo las decisiones de diseño afectan la experiencia final del usuario, 
 relacionando directamente las mecánicas implementadas con las emociones y sensaciones generadas durante el juego.
-
-## Captura del Proyecto
-
-<img width="882" height="495" alt="image" src="https://github.com/user-attachments/assets/907834ae-dcd8-44db-ad43-98b802a00fe7" />
-<img width="400" height="225" alt="Mecanicas" src="https://github.com/user-attachments/assets/a7120540-5dd2-4c12-a164-833fc2c08185" />
-
